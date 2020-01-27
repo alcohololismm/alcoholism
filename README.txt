@@ -7,6 +7,6 @@ c$$$cc$$$c  $$'     $$$        $$$,     $$$"$$$"""$$$ $$$,     $$$$$$$$$c    $$$
  YMM   ""` """"YUMMM  "YUMMMMMP" "YMMMMMP"  MMM    YMM  "YMMMMMP" MMMM   "W" MMM     MMM    MMM    YMMMMM  M'  "MMM
 
 
-## 반쯤 제정신, 반쯤 몽롱한 상태로 하는 스터디
+ 반쯤 제정신, 반쯤 몽롱한 상태로 하는 스터디
 
 
